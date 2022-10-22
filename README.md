@@ -2,4 +2,8 @@
 Hello World .NET Application with RabbitMQ - Publish / Consumer
 
 Publisher --> API <br>
-Consumer --> Console Application
+Consumer --> Console Application <br>
+
+Run the docker-compose.yml to install RabbitMQ Server Locally. <br>
+command: docker.compose up (prompt command)
+
